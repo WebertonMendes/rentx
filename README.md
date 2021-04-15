@@ -27,7 +27,7 @@
 [X] Deve ser possível cadastrar uma especificação para um carro.<br>
 
 **RN (Regra de Negócio)**<br>
-[] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.<br>
+[X] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.<br>
 [X] Não deve ser possível cadastrar uma especificação já existente pra o mesmo carro.<br>
 [X] O usuário reponsável pelo cadastrado deve ser um usuário administrador.<br>
 
@@ -85,10 +85,10 @@
 # Recuperação de Senha
 
 **RF (Requisitos funcionais)**<br>
-[] Deve ser possível que o usuário recupere a senha informando o e-mail.<br>
-[] O usuário deve receber um e-mail com o passo a passo para a recuperação da senha.<br>
-[] O usuário deve conseguir inserir uma nova senha.<br>
+[X] Deve ser possível que o usuário recupere a senha informando o e-mail.<br>
+[X] O usuário deve receber um e-mail com o passo a passo para a recuperação da senha.<br>
+[X] O usuário deve conseguir inserir uma nova senha.<br>
 
 **RN (Regra de Negócio)**<br>
-[] O usuário precisa informar uma nova senha.<br>
-[] O link enviado para recuperação deve expirar em 3 horas.<br>
+[X] O usuário precisa informar uma nova senha.<br>
+[X] O link enviado para recuperação deve expirar em 3 horas.<br>
